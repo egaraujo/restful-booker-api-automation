@@ -15,7 +15,7 @@ To run via Docker:
     `npx cypress run` for headless mode
 
 ## Test cases
-![screenshot](https://github.com/egaraujo/restful-booker-api-automation/blob/main/screenshot.jpg)
+![screenshot](https://github.com/egaraujo/restful-booker-api-automation/blob/d1639717eae349db392767ece4276f84dcba97ed/screenshot.jpg)
 • Should be up and running  
 • Should create a new token  
 • Should return ten bookings initially  
